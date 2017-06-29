@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/nguyentruong/Documents/MyProjects/StaticUI/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/nguyentruong/Documents/MyProjects/StaticUI/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/nguyentruong/Desktop/StaticUI/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

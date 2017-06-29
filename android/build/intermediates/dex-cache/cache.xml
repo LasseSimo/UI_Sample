@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_59bf046895156d7d4162377f73255d5fd4a75ce9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_97cdfbf174f6ac2e3de08c043929b7a74fc0f2a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/infer-annotations-1.5_efd33832d5c19fcc04e80e336d63b41e8f8379c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/com.facebook.react-react-native-0.44.2_32ec36de2d33b8a7313cc0fa6fb70e27f98667f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_4b4d8eb62df24908f4040459e426f3176d457ca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.0.1_0ed5f193e87ac7e3f0264d0dd54df987c24e531c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/okhttp-ws-3.4.1_4c29be565647384e40f7ebba99a29c56a2c2f979.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-1.0.1_a1ee0e243501292c82a71faa75fa9445890f9515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/com.facebook.soloader-soloader-0.1.0_0b6367aedeba0113853f21a0776a8bd373468826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.4.1_9008a0966f9291024dff6d9693c0db3256a835bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1_81cd38b5a37109d04dd4a5a749c28142397041ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_3817307eb02b49a438d03de6472ab3cce501570e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-1.0.1_d8736d5bf262b6f86feaeaff37a7b717c88adcd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-1.0.1_f957e1cd98ceb91c7b38bbbcd6d98a9be3fff474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_4f098a36d48150144870b542619147fdef20a1a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/okhttp-3.4.1_4b7d5674ff361e3009bc58116b0fa308b9a82933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1_dfa131391208a0c29a34d20e41c29bcbf1909240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-1.0.1_c8757fa8b9148bf5255a26232f592653e7596bd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-1.0.1_3998b06d51e18191839c89e7bed2ba9f570242dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/javax.inject-1_99757d59e44fe3f445f270a97c9c1639a79c79f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.0.1_90d04ddabb1ece2ed384d0f79169ff3f5e4b954b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/nguyentruong/Desktop/StaticUI/android/app/build/intermediates/pre-dexed/release/okio-1.9.0_1c9ff9d8e42b4aade5461d4bf84592ed7b2bea30.jar" />
+    </item>
+
+</items>
